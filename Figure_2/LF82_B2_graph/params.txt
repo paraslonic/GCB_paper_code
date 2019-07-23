@@ -1,0 +1,3 @@
+reference: 50
+window: 20
+iterations: 500
